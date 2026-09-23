@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "resume": "Resume",
+    "home": "Home",
+    "certs": "Certifications"
+  },
+  "common": {
+    "back": "Back",
+    "viewResume": "View resume",
+    "viewPdf": "View PDF",
+    "download": "Download",
+    "view": "View",
+    "viewAllCerts": "View all certifications",
+    "verify": "Verify",
+    "viewCertificate": "View certificate",
+    "liveWebsite": "Live website",
+    "github": "GitHub",
+    "nextProject": "Next project",
+    "readArticle": "Read article",
+    "all": "All",
+    "list": "List",
+    "grid": "Grid",
+    "keyPoints": "Key points",
+    "issuer": "Issuer",
+    "obtained": "Obtained",
+    "moreFromJourney": "More certifications",
+    "moreCertifications": "More certifications",
+    "emptyFilter": "No items match this filter.",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "themeLight": "Light mode",
+    "themeDark": "Dark mode"
+  },
+  "about": {
+    "greeting": "Hi, I'm Tanmay",
+    "badge": "Full-stack · Systems · Product UI",
+    "bio": "I like building things that sit at the intersection of technology, design, and real-world problems. I’m drawn to software engineering, AI, full-stack web and mobile development, and the systems that make products actually work. I enjoy going from an idea to something people can interact with—and I care just as much about how it works under the hood as how it feels to use.",
+    "ctaProjects": "View projects",
+    "availability": "Open to roles & collabs",
+    "credentialsHeading": "Background, skills, and details",
+    "tabs": {
+      "academic": "Academic",
+      "experience": "Experience",
+      "stack": "Stack",
+      "info": "Info"
+    },
+    "academicDesc": "Schooling and coursework in computer science and related engineering subjects.",
+    "experienceDesc": "Full-stack & software development internship at AdMax India (Apr 2026 – Sep 2026) — hyperlocal SaaS advertising platform.",
+    "certsEyebrow": "Professional Certifications",
+    "certsDescription": "Verified credentials across backend, test automation, UI/UX, networking, and data visualization — with public Coursera verification links.",
+    "certsCtaCopy": "See every certification and specialization in one place."
+  },
+  "work": {
+    "title": "Projects"
+  },
+  "writing": {
+    "title": "Blog",
+    "eyebrow": "Thoughts & Systems",
+    "description": "Articles, architecture breakdowns, and notes on modern engineering."
+  },
+  "resume": {
+    "eyebrow": "Curriculum vitae",
+    "title": "My Resume",
+    "description": "A concise overview of experience, skills, and selected work."
+  },
+  "certifications": {
+    "title": "Certifications",
+    "description": "Full index of certifications and specializations — verified Coursera & LinkedIn credentials.",
+    "types": {
+      "certification": "Certification",
+      "specialization": "Specialization"
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "description": "Reach out by email or any of the channels below.",
+    "close": "Close"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

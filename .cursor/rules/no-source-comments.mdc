@@ -1,0 +1,14 @@
+---
+description: Never leave comments in source code
+alwaysApply: true
+---
+
+# No source comments
+
+Never add or leave comments in project source code.
+
+Applies to TypeScript, JavaScript, CSS, and config: no `//`, `/* */`, `/** */`, HTML comments, or TODO markers.
+
+Prefer clear naming and structure. When editing a file, remove comments in the touched regions. Do not commit commented-out code.
+
+README and Spec Kit markdown are allowed. This rule is for application source only.
